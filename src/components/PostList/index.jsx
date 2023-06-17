@@ -70,13 +70,14 @@ const PostList = ({ postList }) => {
   return (
     <PostListWrapper>
       {postList.slice(0, postCount).map((post, i) => {
-        const { title, date, tags } = post.frontmatter
+        const { title, date, tags, heroImage } = post.frontmatter
         const { excerpt } = post
         const { slug } = post.fields
 
         return (
           <>
             <PostWrapper>
+              <img src={heroImage} />
               <Title size="bg">
                 <Link to={slug}>{title}</Link>
               </Title>

@@ -10,7 +10,7 @@ tags:
 series: "오늘의 일기"
 ---
 
-![오늘 상태](dev-jeans.jpg)
+![오늘 상태](dev-jeans.png)
 
 너무너무 피곤함.
 

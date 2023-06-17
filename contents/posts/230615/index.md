@@ -8,7 +8,11 @@ tags:
   - Gatsby
   - Blog
 series: "오늘의 일기"
+heroImage: "./likelion.jpg"
 ---
+
+![](likelion.jpg)
+![](likelion.png)
 
 ## 1. Gatsby Blog 시작하기
 
