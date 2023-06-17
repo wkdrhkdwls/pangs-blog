@@ -8,6 +8,7 @@ const GRAY3 = "#dee2e6"
 const GRAY2 = "#e9ecef"
 const GRAY1 = "#f1f3f5"
 const GRAY0 = "#f8f9fa"
+const BRACK0 = "#000000"
 
 export const light = {
   name: "light",
@@ -50,7 +51,7 @@ export const light = {
 export const dark = {
   name: "dark",
   colors: {
-    bodyBackground: GRAY9,
+    bodyBackground: BRACK0,
     text: GRAY0,
     secondaryText: GRAY4,
     tertiaryText: GRAY5,
