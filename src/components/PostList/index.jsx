@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from "react"
 import styled from "styled-components"
 import _ from "lodash"
-
 import { Link } from "gatsby"
-
 import Title from "components/Title"
 import Divider from "components/Divider"
 import TagList from "components/TagList"
+import Img from "gatsby-image"
 
 const PostListWrapper = styled.div`
   @media (max-width: 768px) {
@@ -73,11 +72,15 @@ const PostList = ({ postList }) => {
         const { title, date, tags, heroImage } = post.frontmatter
         const { excerpt } = post
         const { slug } = post.fields
+        const HeroImage = heroImage ? (
+          <Img fluid={heroImage} alt={title} />
+        ) : null
 
         return (
           <>
             <PostWrapper>
-              <img src={heroImage} />
+              {HeroImage}
+
               <Title size="bg">
                 <Link to={slug}>{title}</Link>
               </Title>
