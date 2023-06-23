@@ -8,6 +8,7 @@ tags:
   - Blog
   - GM369
 series: "운동 기록"
+heroImage: "./workout.png"
 ---
 
 ![6.17일 기록](workout.png)
