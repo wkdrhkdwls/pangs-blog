@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://github.com/sitemap-index.xml
+Sitemap: https://github.com/pangs-blog/sitemap-index.xml
 Host: https://github.com
