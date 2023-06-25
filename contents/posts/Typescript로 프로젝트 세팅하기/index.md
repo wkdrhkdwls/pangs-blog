@@ -7,6 +7,7 @@ tags:
   - ReactJS
   - TypeScript
   - Setting
+  - Blog
 series: "Project"
 ---
 

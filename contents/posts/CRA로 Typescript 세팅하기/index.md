@@ -8,6 +8,7 @@ tags:
   - TypeScript
   - CRA
   - TailwindCSS
+  - Blog
 series: "Project"
 ---
 
