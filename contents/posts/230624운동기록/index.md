@@ -10,4 +10,4 @@ tags:
 series: "운동 기록"
 ---
 
-![6.24일 기록](workout.png)
+![6.24일 기록](workout.jpg)
