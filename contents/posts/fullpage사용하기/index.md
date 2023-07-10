@@ -189,3 +189,4 @@ const Home = () => {
 ```
 
 FullpageSection를 제거하고 Footer를 Section에 추가해주면 footer도 잘나오는 것을 확인 할 수 있다.
+[배포페이지](https://main--poetic-naiad-703d7b.netlify.app/)
