@@ -9,7 +9,7 @@ tags:
   - Setting
   - Blog
   - 진경옥몰
-series: "Project"
+series: "TypeScript"
 ---
 
 ## 1. Typescript로 세팅하기

@@ -8,7 +8,7 @@ tags:
   - TypeScript
   - Setting
   - Blog
-series: "Project"
+series: "TypeScript"
 ---
 
 CRA없이 TypeScript와 React를 세팅하는 방법이다.

@@ -10,7 +10,7 @@ tags:
   - Blog
   - 진경옥몰
   - 결제모듈
-series: "Project"
+series: "Module"
 ---
 
 ## 1. PortOne

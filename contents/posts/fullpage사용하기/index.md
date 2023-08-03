@@ -8,7 +8,7 @@ tags:
   - TypeScript
   - Blog
   - fullpage
-series: "Project"
+series: "Module"
 ---
 
 평소에 어떻게 메인페이지를 구성할까 생각하다 fullpage.js를 적용해보기로 했다.
