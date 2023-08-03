@@ -1,6 +1,6 @@
 ---
-title: "React에서 S3를 이용하여 파일 업로드하기"
-description: "React에서 S3를 이용하여 파일 업로드하기"
+title: "AWS S3 생성하기"
+description: "AWS S3 생성하기"
 date: 2023-08-03
 update: 2023-08-03
 tags:
